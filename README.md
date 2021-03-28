@@ -9,5 +9,5 @@ In this project, we used Leaflet.js to create maps and presented the earthquake 
 Our final map was as follows:
 ![](Picture/map.png)
 
-It had three map styles: Streets, Satellite, and Dark version.
-Three layers were added to the map: Earthquakes, Tectonic Plates, and Major Earthquakes.
+- It had three map styles: Streets, Satellite, and Dark version.
+- Three layers were added to the map: Earthquakes, Tectonic Plates, and Major Earthquakes.
